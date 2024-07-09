@@ -10,4 +10,8 @@ This project focuses on demand forecasting for a supply chain using historical s
 - Correcting Item_Fat_Content for non-consumable items.
 - Encoding categorical features using OneHotEncoder.
 ### 2. Model Training and Evaluation
+![image](https://github.com/VHemanth45/Supply-Chain-Network-Optimization/assets/154959821/a884d342-7cdd-4f40-83ab-ed61c4dd8557)
+## Future Improvements
+- Integration of real-time data for dynamic forecasting.
+- Exploration of advanced deep learning techniques for improved accuracy.
 
